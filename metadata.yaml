@@ -1,11 +1,16 @@
 _repo: Ballads-and-Other-Poems-Fourth-Edition-Revised_67152
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67152-h/images/cover.jpg
 creator:
   author:
     agent_name: Raymond, George Lansing
     gutenberg_agent_id: '54137'
     url: http://www.gutenberg.org/2009/agents/54137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67152#Ballads-and-Other-Poems-Fourth-Edition-Revised
 gutenberg_issued: '2022-01-13'
 identifiers:
   gutenberg: '67152'
